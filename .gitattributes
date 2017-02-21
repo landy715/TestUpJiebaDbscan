@@ -1,0 +1,5 @@
+dbscan_w2v/w2v_ch.model filter=lfs diff=lfs merge=lfs -text
+dbscan_w2v/w2v_ch.model.syn0.npy filter=lfs diff=lfs merge=lfs -text
+dbscan_w2v/w2v_ch.model.syn1neg.npy filter=lfs diff=lfs merge=lfs -text
+dbscan_w2v/NameDict_Ch_v2.txt filter=lfs diff=lfs merge=lfs -text
+dbscan_w2v/dict.txt.big.txt filter=lfs diff=lfs merge=lfs -text
